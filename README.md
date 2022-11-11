@@ -1,2 +1,2 @@
 # torfinnnome.github.io
-torfinnnome.com, my personal website.
+[torfinnnome.com](https://torfinnnome.com), my personal website.
